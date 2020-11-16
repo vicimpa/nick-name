@@ -1,5 +1,5 @@
 {
-  "name": "nick-name",
+  "name": "@vicimpa/nick-name",
   "version": "1.0.0",
   "description": "Nick name generator for JavaScript",
   "main": "nick-name.js",

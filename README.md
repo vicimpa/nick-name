@@ -5,7 +5,7 @@ Source by [nick-name.ru](https://nick-name.ru/)
 
 ## Install
 ```bash
-> npm install nick-name --save
+> npm install @vicimpa/nick-name --save
 ```
 ## Usage
 ```js
