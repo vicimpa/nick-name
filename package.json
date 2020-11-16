@@ -1,0 +1,23 @@
+{
+  "name": "nick-name",
+  "version": "1.0.0",
+  "description": "Nick name generator for JavaScript",
+  "main": "nick-name.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicimpa/nick-name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicimpa/nick-name/issues"
+  },
+  "homepage": "https://github.com/vicimpa/nick-name#readme"
+}
